@@ -57,23 +57,19 @@ SINCE WE CREATE A REVERSE SHELL THE TARGET WONT KNOW THAT A REMOTE HOST CAN CONT
 
  ![K3](https://user-images.githubusercontent.com/62021583/187683381-96c1ed8e-c583-458f-a37c-a83efcc41fed.jpg)
 
+THIS CONSOLE WILL TELL IF THERE IS ANY FURTHER VULNERABILITY IN THE MACHINE AND IT IS PATCHED OR NOT. 
+
+ ![R2](https://user-images.githubusercontent.com/62021583/187685903-7acec769-8d13-43f0-911e-c2fe3add592e.png)
+
+
+ ![K1](https://user-images.githubusercontent.com/62021583/187682142-3807860f-44e4-4a66-85a1-d647ebcec4bc.png)
+ 
 ![image](https://user-images.githubusercontent.com/62021583/187678835-5846abbc-51f9-4a51-865b-ccb34da331a5.png)
-
-
-
 
 ![image](https://user-images.githubusercontent.com/62021583/187678859-e0996d35-7603-434a-afbf-ff7f0002347c.png)
 
- ![K1](https://user-images.githubusercontent.com/62021583/187682142-3807860f-44e4-4a66-85a1-d647ebcec4bc.png)
+MACHINE HAS BEEN PATCHED.
 
-THIS CONSOLE WILL TELL IF THERE IS ANY FURTHER VULNERABILITY IN THE MACHINE AND IT IS PATCHED OR NOT. 
- 
-
-
- 
  ![image](https://user-images.githubusercontent.com/62021583/187678892-5e590316-34f3-4307-9248-9e5a7b45075d.png)
-
-MACHINE HAS BEEN PATCHED. 
-
 
   
